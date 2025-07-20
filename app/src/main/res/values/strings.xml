@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Visas IA</string>
+    
+    <!-- Navegación -->
+    <string name="dashboard_title">Dashboard Principal</string>
+    <string name="new_case_title">Nuevo Caso</string>
+    <string name="existing_cases_title">Casos Existentes</string>
+    <string name="settings_title">Configuración</string>
+    <string name="ai_consultation_title">Consultoría IA</string>
+    
+    <!-- Autenticación -->
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="register_title">Registrarse</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="register_button">Registrarse</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    
+    <!-- Dashboard -->
+    <string name="welcome_message">Bienvenido, %s</string>
+    <string name="menu_principal">Menú Principal</string>
+    <string name="new_case">Nuevo Caso</string>
+    <string name="new_case_description">Crear un nuevo expediente de visa</string>
+    <string name="existing_cases">Ver Casos Existentes</string>
+    <string name="existing_cases_description">Gestionar expedientes existentes</string>
+    <string name="settings">Configuración</string>
+    <string name="settings_description">Ajustes de la aplicación</string>
+    <string name="ai_consultation">Consultoría IA</string>
+    <string name="ai_consultation_description">Chat y asesoramiento con IA</string>
+    <string name="logout">Cerrar Sesión</string>
+    
+    <!-- Nuevo Caso -->
+    <string name="select_country">Seleccionar País Destino</string>
+    <string name="select_visa_type">Seleccionar Tipo de Visa</string>
+    <string name="digital_form">Formulario Digital</string>
+    <string name="document_upload">Subida de Documentos</string>
+    <string name="camera_scan">Escaneo con Cámara</string>
+    <string name="ai_analysis">Análisis IA</string>
+    <string name="save_case">Guardar Caso</string>
+    
+    <!-- Estados de visa -->
+    <string name="status_pending">Pendiente</string>
+    <string name="status_processing">En Proceso</string>
+    <string name="status_approved">Aprobada</string>
+    <string name="status_rejected">Rechazada</string>
+    
+    <!-- Mensajes -->
+    <string name="case_saved_successfully">Caso guardado exitosamente</string>
+    <string name="authentication_failed">Autenticación fallida</string>
+    <string name="invalid_credentials">Credenciales incorrectas</string>
+    <string name="email_required">El email es requerido</string>
+    <string name="password_required">La contraseña es requerida</string>
+    <string name="invalid_email">Email inválido</string>
+    <string name="select_country_required">Selecciona un país de destino</string>
+    <string name="select_visa_type_required">Selecciona un tipo de visa</string>
+    
+    <!-- IA -->
+    <string name="ai_analyzing">Analizando con IA...</string>
+    <string name="ai_recommendations">Recomendaciones de IA</string>
+    <string name="ai_chat_placeholder">Escribe tu pregunta...</string>
+    <string name="ai_send">Enviar</string>
+    
+    <!-- OCR -->
+    <string name="ocr_processing">Procesando documento...</string>
+    <string name="ocr_success">Documento procesado exitosamente</string>
+    <string name="ocr_error">Error al procesar documento</string>
+    
+    <!-- Configuración -->
+    <string name="profile_settings">Configurar Perfil</string>
+    <string name="notification_settings">Configurar Notificaciones</string>
+    <string name="privacy_settings">Configurar Privacidad</string>
+    
+    <!-- Países -->
+    <string name="country_us">Estados Unidos</string>
+    <string name="country_ca">Canadá</string>
+    <string name="country_uk">Reino Unido</string>
+    <string name="country_au">Australia</string>
+    <string name="country_nz">Nueva Zelanda</string>
+    <string name="country_eu">Unión Europea</string>
+    
+    <!-- Tipos de visa -->
+    <string name="visa_tourist">Turista</string>
+    <string name="visa_business">Negocios</string>
+    <string name="visa_student">Estudiante</string>
+    <string name="visa_work">Trabajo</string>
+    <string name="visa_family">Familiar</string>
+</resources>
